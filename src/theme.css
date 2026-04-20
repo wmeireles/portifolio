@@ -1,0 +1,273 @@
+/* Tema escuro (padrão) */
+body.dark-mode {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+body.dark-mode .section-title,
+body.dark-mode .page-title,
+body.dark-mode .hero-name,
+body.dark-mode .project-title,
+body.dark-mode .featured-project-title,
+body.dark-mode h1, body.dark-mode h2, body.dark-mode h3 {
+  color: #e6f1ff;
+}
+
+body.dark-mode .navbar {
+  background-color: rgba(10, 10, 20, 0.95);
+}
+
+body.dark-mode .project-card,
+body.dark-mode .contact-form-container,
+body.dark-mode .specialty-card {
+  background-color: #0d1729;
+}
+
+body.dark-mode .form-control {
+  background-color: #1a2639;
+  color: #e6f1ff;
+}
+
+/* Tema claro */
+body.light-mode {
+  background-color: #f5f5f5;
+  color: #333333;
+}
+
+body.light-mode .navbar {
+  background-color: rgba(255, 255, 255, 0.95);
+}
+
+body.light-mode .navbar .nav-link {
+  color: #333333 !important;
+}
+
+body.light-mode .navbar .nav-link:hover,
+body.light-mode .navbar .nav-link.active {
+  color: var(--primary-color) !important;
+}
+
+body.light-mode .section-title,
+body.light-mode .page-title,
+body.light-mode .hero-name,
+body.light-mode .project-title,
+body.light-mode .featured-project-title,
+body.light-mode h1, body.light-mode h2, body.light-mode h3 {
+  color: #333333;
+}
+
+/* Ajustes para seções específicas no modo claro */
+body.light-mode .skills-section,
+body.light-mode .featured-projects,
+body.light-mode .cta-section {
+  background-color: #f0f0f0;
+}
+
+body.light-mode .featured-project-description {
+  background-color: #ffffff;
+  color: #555555;
+}
+
+body.light-mode .cta-description {
+  color: #555555;
+}
+
+body.light-mode .skill-item p,
+body.light-mode .featured-project p,
+body.light-mode .hero-description,
+body.light-mode .hero-title,
+body.light-mode .page-description {
+  color: #555555;
+}
+
+body.light-mode .hero-buttons .btn-primary {
+  border: 1px solid #0a8b6c;
+  color: #0a8b6c;
+  background-color: transparent;
+}
+
+body.light-mode .hero-buttons .btn-primary:hover {
+  background-color: #0a8b6c;
+  color: white;
+  border-color: #0a8b6c;
+}
+
+body.light-mode .hero-buttons .btn-outline-light {
+  border: 1px solid #555555;
+  color: #555555;
+}
+
+body.light-mode .hero-buttons .btn-outline-light:hover {
+  background-color: #555555;
+  color: white;
+}
+
+body.light-mode .project-tag {
+  background-color: rgba(10, 139, 108, 0.1);
+  color: #0a8b6c;
+  font-weight: 500;
+}
+
+body.light-mode .specialty-card {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+body.light-mode .specialty-icon {
+  background-color: rgba(100, 255, 218, 0.2);
+}
+
+body.light-mode .cta-section {
+  background-color: #e9f7f4;
+}
+
+/* Botões no modo claro */
+body.light-mode .btn-primary {
+  border: 1px solid #0a8b6c;
+  color: #0a8b6c;
+  background-color: transparent;
+}
+
+body.light-mode .btn-primary:hover {
+  background-color: #0a8b6c;
+  color: white;
+  border-color: #0a8b6c;
+}
+
+body.light-mode .btn-outline-light {
+  border: 1px solid #555555;
+  color: #555555;
+  background-color: transparent;
+}
+
+body.light-mode .btn-outline-light:hover {
+  background-color: #555555;
+  color: white;
+}
+
+/* Cards de projeto no modo claro */
+body.light-mode .project-card:hover {
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .project-link {
+  color: #333333;
+}
+
+body.light-mode .project-link:hover {
+  color: #0a8b6c;
+  text-decoration: none;
+}
+
+/* Projetos em destaque no modo claro */
+body.light-mode .featured-project-content {
+  background-color: #ffffff;
+  box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .featured-project-description {
+  background-color: #ffffff;
+  color: #555555;
+  box-shadow: none;
+}
+
+body.light-mode .featured-project-card {
+  background-color: #ffffff;
+  box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .featured-project-tech-list li {
+  color: #666666;
+}
+
+body.light-mode .view-all {
+  color: #0a8b6c;
+}
+
+body.light-mode .project-overline {
+  color: #0a8b6c;
+}
+
+/* Ajustes para a seção de especialidades */
+body.light-mode .skills-section {
+  background-color: #f5f5f5;
+}
+
+body.light-mode .skill-icon {
+  background-color: rgba(100, 255, 218, 0.2);
+  color: #0a8b6c;
+}
+
+/* Ajustes para a seção CTA */
+body.light-mode .cta-title {
+  color: #333333;
+}
+
+body.light-mode .cta-button {
+  border-color: #0a8b6c;
+  color: #0a8b6c;
+  background-color: transparent;
+}
+
+body.light-mode .cta-button:hover {
+  background-color: #0a8b6c;
+  color: white;
+}
+
+/* Ajustes para o rodapé no modo claro */
+body.light-mode .footer {
+  background-color: #f5f5f5;
+  border-top: 1px solid #e0e0e0;
+}
+
+body.light-mode .social-links a {
+  background-color: #e9e9e9;
+  color: #333333;
+}
+
+body.light-mode .social-links a:hover {
+  color: var(--primary-color);
+  background-color: rgba(100, 255, 218, 0.2);
+}
+
+body.light-mode .copyright {
+  color: #666666;
+}
+
+body.light-mode .project-card,
+body.light-mode .contact-form-container,
+body.light-mode .specialty-card {
+  background-color: #ffffff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .project-description,
+body.light-mode .contact-text,
+body.light-mode .about-content p,
+body.light-mode .timeline-description {
+  color: #555555;
+}
+
+body.light-mode .form-control {
+  background-color: #f9f9f9;
+  color: #333333;
+  border: 1px solid #e0e0e0;
+}
+
+body.light-mode .form-control::placeholder {
+  color: #999999;
+}
+
+/* Transição suave entre temas */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Garantir que o tema escuro seja aplicado por padrão */
+body {
+  background-color: #0a0a14;
+  color: #e6f1ff;
+}
+
+.project-card, .contact-form-container, .specialty-card, .form-control, .navbar {
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
+}
