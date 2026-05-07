@@ -75,10 +75,10 @@ const Home = () => {
             <Col lg={10} className="hero-content">
               <span className="overline-text gsap-fade-up">Engenharia e Consultoria</span>
               <h1 className="hero-name">
-                Escalabilidade e Automação para Sistemas Corporativos.
+                Engenheiro de Software
               </h1>
               <p className="hero-description mx-auto">
-                Modernização de arquiteturas legadas, integração de dados e implantação de pipelines seguros para empresas que precisam de soluções definitivas.
+                Especializado em modernizar arquiteturas legadas, integrar fluxos de dados e implantar pipelines seguros para empresas que buscam soluções definitivas.
               </p>
               <div className="hero-buttons">
                 <Link to="/contact">
