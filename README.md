@@ -6,7 +6,7 @@ Um portfólio moderno e responsivo desenvolvido com React e Bootstrap para desta
 
 - Design moderno e profissional com tema escuro
 - Layout totalmente responsivo para todos os dispositivos
-- Seções organizadas para projetos de Backend, Frontend, Mobile e UX/UI
+- Seções organizadas para projetos de Backend, Frontend, Mobile e Arquitetura
 - Animações suaves e interações para melhorar a experiência do usuário
 - Formulário de contato funcional
 - Otimizado para SEO e performance

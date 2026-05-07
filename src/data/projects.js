@@ -98,7 +98,7 @@ export const projects = [
     tags: ["Figma", "User Research", "Wireframing", "Prototyping", "Usability Testing"],
     github: "https://www.behance.net/gallery/190675319/Bichinhos-da-TI",
     demo: "https://www.behance.net/gallery/190675319/Bichinhos-da-TI",
-    category: "UX/UI"
+    category: "Arquitetura"
   },
   {
     id: 11,
@@ -108,7 +108,7 @@ export const projects = [
     tags: ["Adobe XD", "Style Guide", "Component Library", "Documentation", "Accessibility"],
     github: "https://www.behance.net/gallery/202971307/COMMUNITY-GAMERS-Landing-Page-UI",
     demo: "https://www.behance.net/gallery/202971307/COMMUNITY-GAMERS-Landing-Page-UI",
-    category: "UX/UI"
+    category: "Arquitetura"
   },
   {
     id: 12,
@@ -118,7 +118,7 @@ export const projects = [
     tags: ["Sketch", "Interaction Design", "User Testing", "Motion Design", "Design Thinking"],
     github: "https://www.behance.net/gallery/202894573/GUIA-DE-MOTEIS-GO-Landing-Page-Redesign-UI",
     demo: "https://www.behance.net/gallery/202894573/GUIA-DE-MOTEIS-GO-Landing-Page-Redesign-UI",
-    category: "UX/UI"
+    category: "Arquitetura"
   },
     {
     id: 13,

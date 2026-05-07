@@ -11,9 +11,8 @@ const About = () => {
     { name: "React", percentage: 85 },
     { name: "Node.js", percentage: 80 },
     { name: "Python", percentage: 75 },
-    { name: "React Native", percentage: 85 },
-    { name: "UI/UX Design", percentage: 90 },
-    { name: "Figma/Adobe XD", percentage: 85 }
+    { name: "Arquitetura de Software", percentage: 90 },
+    { name: "Cloud (AWS/Azure)", percentage: 85 }
   ];
 
   const experiences = [
@@ -141,10 +140,10 @@ const About = () => {
               <div className="specialty-icon">
                 <FaPencilRuler />
               </div>
-              <h3>UX/UI Design</h3>
+              <h3>Arquitetura de Software</h3>
               <p>
-                Design de interfaces centradas no usuário, wireframing, prototipagem 
-                e testes de usabilidade.
+                Desenho de soluções técnicas de alta performance e escalabilidade, 
+                focando na integração entre sistemas e padrões de projeto.
               </p>
             </div>
           </Col>

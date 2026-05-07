@@ -33,9 +33,9 @@ const About = () => {
           </Col>
           <Col lg={6}>
             <div className="about-content">
-              <h3 className="mb-4">Desenvolvedor Full Stack</h3>
+              <h3 className="mb-4">Engenheiro de Software</h3>
               <p className="lead mb-4">
-                Sou um desenvolvedor apaixonado por tecnologia e inovação. 
+                Sou um engenheiro de software apaixonado por tecnologia e inovação. 
                 Especializado em desenvolvimento web moderno com foco em 
                 performance e experiência do usuário.
               </p>

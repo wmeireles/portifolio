@@ -63,10 +63,10 @@ const Projects = () => {
           </Nav.Item>
           <Nav.Item>
             <Nav.Link 
-              className={activeCategory === 'ux/ui' ? 'active' : ''} 
-              onClick={() => setActiveCategory('ux/ui')}
+              className={activeCategory === 'arquitetura' ? 'active' : ''} 
+              onClick={() => setActiveCategory('arquitetura')}
             >
-              UX/UI
+              Arquitetura
             </Nav.Link>
           </Nav.Item>
           <Nav.Item>

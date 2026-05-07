@@ -11,7 +11,7 @@ const Home = () => {
             <h1 className="display-4 fw-bold mb-4">
               Olá, eu sou <span className="text-primary">William Meireles</span>
             </h1>
-            <h2 className="h3 mb-4 text-muted">Desenvolvedor Full Stack</h2>
+            <h2 className="h3 mb-4 text-muted">Engenheiro de Software</h2>
             <p className="lead mb-4">
               Apaixonado por tecnologia e desenvolvimento de software. 
               Especializado em React, Node.js e soluções web modernas.

@@ -150,7 +150,7 @@ const Home = () => {
              <Col lg={7} className="ps-lg-5 gsap-fade-up">
                 <h2 className="section-title mb-4">Experiência comprovada em Big Techs e Corporações.</h2>
                 <p className="text-muted-modern mb-4">
-                  Sou Willian Meireles, atuando no suporte crítico, engenharia de dados e desenvolvimento Fullstack por anos em gigantes do mercado como Stefanini e Global Hitss.
+                  Sou Willian Meireles, atuando no suporte crítico, engenharia de dados e engenharia de software por anos em gigantes do mercado como Stefanini e Global Hitss.
                 </p>
                 <p className="text-muted-modern mb-4">
                   O objetivo principal das minhas consultorias e entregáveis baseia-se em parar de apagar incêndios e aplicar melhorias que geram alta economia.
